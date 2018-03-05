@@ -57,3 +57,6 @@ obtenidos.
 * Capacidad para comunicar de forma efectiva los resultados y conclusiones de un
 análisis.
 * Capacidad para reconocer el valor de trabajar en red y de forma cooperativa. 
+
+
+License: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
