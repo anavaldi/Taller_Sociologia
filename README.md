@@ -1,7 +1,7 @@
 # TALLER DE SOCIAL MEDIA ANALYSIS: TWITTER, REDES Y SENTIMIENTOS
-###### Taller impartido en la Facultad de Ciencias Políticas y Sociología de la UGR dentro del programa "Aula Abierta".
+###### Taller impartido en la Facultad de Ciencias Políticas y Sociología de la UGR dentro del programa [Aula Abierta](http://polisocio.ugr.es/educacion-abierta.php). 
 
-
+![alt text](https://github.com/anavaldi/Taller_Sociologia/blob/master/portada.png "Portada")
 
 ## Presentación 
 
@@ -18,42 +18,42 @@ sentimientos que se esconde para así conocer qué dice la gente sobre un cierto
 o qué sentimientos muestran.
 
 ## Objetivos
-⋅⋅* Familiarizarse con los conceptos básicos del social media analysis, text mining y
+* Familiarizarse con los conceptos básicos del social media analysis, text mining y
 sentiment analysis.
-⋅⋅* Potenciar la capacidad analítica, comunicativa y de síntesis.
-⋅⋅* Aprender una metodología para la extracción del conocimiento a partir de datos de
+* Potenciar la capacidad analítica, comunicativa y de síntesis.
+* Aprender una metodología para la extracción del conocimiento a partir de datos de
 Twitter (extracción de datos, análisis y visualización).
 
 ## Contenidos
-⋅⋅* Introducción a la ciencia de datos, análisis de redes sociales y análisis de
+* Introducción a la ciencia de datos, análisis de redes sociales y análisis de
 sentimientos.
-⋅⋅* Extracción de datos en Twitter (t-hoarder).
-⋅⋅* Visualización y análisis de datos y texto (R y Tableau).
-⋅⋅* Estudio de un caso práctico libre (política, marketing, social, periodismo).
+* Extracción de datos en Twitter (t-hoarder).
+* Visualización y análisis de datos y texto (R y Tableau).
+* Estudio de un caso práctico libre (política, marketing, social, periodismo).
 
 ## Destrezas
-⋅⋅* Conocer las técnicas y métodos básicos de investigación.
-⋅⋅* Conocer conceptos básicos de la estadística descriptiva.
-⋅⋅* Conocer los diferentes métodos de visualización de datos aplicables según la
+* Conocer las técnicas y métodos básicos de investigación.
+* Conocer conceptos básicos de la estadística descriptiva.
+* Conocer los diferentes métodos de visualización de datos aplicables según la
 información que se pretenda transmitir.
-⋅⋅* Tener habilidad en el uso de las TIC.
+* Tener habilidad en el uso de las TIC.
 
 ## Competencias generales
-⋅⋅* Motivar al estudiantado para despertar su parte analítica a partir de la extracción de
+* Motivar al estudiantado para despertar su parte analítica a partir de la extracción de
 datos de redes sociales.
-⋅⋅* Interpretar grandes cantidades de datos fomentando habilidades de pensamiento
+* Interpretar grandes cantidades de datos fomentando habilidades de pensamiento
 crítico y de comunicación, presentando los resultados de la manera más eficiente
 posible.
-⋅⋅* Analizar y valorar toda la información y las novedades que se publican y comentan
+* Analizar y valorar toda la información y las novedades que se publican y comentan
 en el ámbito de Internet que puedan beneficiar, influir o perjudicar a la sociedad.
-⋅⋅* Despertar el espíritu crítico relacionado con las redes sociales.
+* Despertar el espíritu crítico relacionado con las redes sociales.
 
 ## Unidades de competencia
-⋅⋅* Capacidad de utilizar los recursos presentados para el tratamiento de una gran
+* Capacidad de utilizar los recursos presentados para el tratamiento de una gran
 cantidad de datos.
-⋅⋅* Capacidad de analizar el texto de los mensajes publicados en Twitter.
-⋅⋅* Capacidad de realizar visualizaciones que expliquen explícitamente los datos
+* Capacidad de analizar el texto de los mensajes publicados en Twitter.
+* Capacidad de realizar visualizaciones que expliquen explícitamente los datos
 obtenidos.
-⋅⋅* Capacidad para comunicar de forma efectiva los resultados y conclusiones de un
+* Capacidad para comunicar de forma efectiva los resultados y conclusiones de un
 análisis.
-⋅⋅* Capacidad para reconocer el valor de trabajar en red y de forma cooperativa. 
+* Capacidad para reconocer el valor de trabajar en red y de forma cooperativa. 
