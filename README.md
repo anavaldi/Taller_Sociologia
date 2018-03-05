@@ -31,12 +31,14 @@ sentimientos.
 * Visualización y análisis de datos y texto (R y Tableau).
 * Estudio de un caso práctico libre (política, marketing, social, periodismo).
 
-## Destrezas
-* Conocer las técnicas y métodos básicos de investigación.
-* Conocer conceptos básicos de la estadística descriptiva.
-* Conocer los diferentes métodos de visualización de datos aplicables según la
-información que se pretenda transmitir.
-* Tener habilidad en el uso de las TIC.
+| Día       | Hora           | Contenido  |
+| ------------- |:-------------:| -----:|
+| 6 de marzo de 2018 | 11:00 - 14:00 | Introducción al *social media* |
+| 13 de marzo de 2018 | 11:00 - 14:00 | Extracción de datos de Twitter |
+| 3 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización I |
+| 10 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización II |
+| 27 de abril de 2018 | 11:00 - 14:00 | Presentaciones + Debate |
+
 
 ## Competencias generales
 * Motivar al estudiantado para despertar su parte analítica a partir de la extracción de
@@ -48,15 +50,10 @@ posible.
 en el ámbito de Internet que puedan beneficiar, influir o perjudicar a la sociedad.
 * Despertar el espíritu crítico relacionado con las redes sociales.
 
-## Unidades de competencia
-* Capacidad de utilizar los recursos presentados para el tratamiento de una gran
-cantidad de datos.
-* Capacidad de analizar el texto de los mensajes publicados en Twitter.
-* Capacidad de realizar visualizaciones que expliquen explícitamente los datos
-obtenidos.
-* Capacidad para comunicar de forma efectiva los resultados y conclusiones de un
-análisis.
-* Capacidad para reconocer el valor de trabajar en red y de forma cooperativa. 
+
+
+
+
 
 
 License: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
