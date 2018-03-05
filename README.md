@@ -32,10 +32,10 @@ sentimientos.
 * Estudio de un caso práctico libre (política, marketing, social, periodismo).
 
 | Día       | Hora           | Contenido  |
-| ------------- |:-------------:| -----:|
-| 6 de marzo de 2018 | 11:00 - 14:00 | Introducción al *social media* |
+| --- | --- | --- |
+| 06 de marzo de 2018 | 11:00 - 14:00 | Introducción al *social media* |
 | 13 de marzo de 2018 | 11:00 - 14:00 | Extracción de datos de Twitter |
-| 3 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización I |
+| 03 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización I |
 | 10 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización II |
 | 27 de abril de 2018 | 11:00 - 14:00 | Presentaciones + Debate |
 
