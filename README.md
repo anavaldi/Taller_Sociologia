@@ -1,5 +1,5 @@
-# Taller_Sociologia
-###### TALLER DE SOCIAL MEDIA ANALYSIS: TWITTER, REDES Y SENTIMIENTOS
+# TALLER DE SOCIAL MEDIA ANALYSIS: TWITTER, REDES Y SENTIMIENTOS
+###### Taller impartido en la Facultad de Ciencias Políticas y Sociología de la UGR dentro del programa "Aula Abierta".
 
 
 
