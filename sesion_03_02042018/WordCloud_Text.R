@@ -5,10 +5,21 @@
 # Author: Ana Valdivia
 # Date: 4th October 2017
 #
-####################################################
-
+################
+print("hola")
 
 # Libraries
+install.packages("readr")
+install.packages("rvest")
+install.packages("beepr")
+install.packages("stringr")
+install.packages("RXKCD")
+install.packages("tm")
+install.packages("wordcloud")
+install.packages("RColorBrewer")
+install.packages("data.table")
+install.packages("wordcloud2") 
+
 library(readr)
 library(rvest)
 library(beepr)
