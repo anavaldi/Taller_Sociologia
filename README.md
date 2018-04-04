@@ -37,7 +37,7 @@ sentimientos.
 | 13 de marzo de 2018 | 11:00 - 14:00 | Extracción de datos de Twitter |
 | 03 de abril de 2018 | 11:00 - 14:00 | Introducción al *text mining* |
 | 10 de abril de 2018 | 11:00 - 14:00 | Análisis y visualización |
-| 27 de abril de 2018 | 11:00 - 14:00 | Presentaciones + Examen + Debate |
+| 17 de abril de 2018 | 11:00 - 14:00 | Presentaciones + Examen + Debate |
 
 
 ## Competencias generales
